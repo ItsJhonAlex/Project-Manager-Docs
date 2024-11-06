@@ -5,5 +5,9 @@
   "dataview",
   "templater-obsidian",
   "periodic-notes",
-  "github-sync"
+  "github-sync",
+  "obsidian-excalidraw-plugin",
+  "obsidian-image-toolkit",
+  "obsidian-banners",
+  "obsidian-projects"
 ]
