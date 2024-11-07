@@ -1,6 +1,42 @@
 {
   "version": 2,
-  "projects": [],
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "053b7ccb-c9ba-41b9-9904-2fda25f95b7b",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "198fb307-8cc7-4e21-a71a-db8045848917",
+      "name": "Project Manager Docs"
+    }
+  ],
   "archives": [],
   "preferences": {
     "projectSizeLimit": 1000,
