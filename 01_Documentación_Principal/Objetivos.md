@@ -1,3 +1,11 @@
+---
+create: 2024-11-07T00:01
+finish: false
+tags:
+  - Documentación
+  - Requisitos
+---
+
 # Objetivos
 
 ## Objetivo General

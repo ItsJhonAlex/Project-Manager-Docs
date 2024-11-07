@@ -1,3 +1,11 @@
+---
+create: 2024-11-07T00:02
+finish: false
+tags:
+  - Documentación
+  - Guía
+---
+
 # Alcance
 
 Este proyecto abarcará el desarrollo de una plataforma de software colaborativo que incluirá aplicaciones web, móviles y de escritorio para Windows, Linux y macOS, así como para dispositivos Android e iPhone. La plataforma funcionará como una red social donde los usuarios podrán registrarse como desarrolladores o clientes.

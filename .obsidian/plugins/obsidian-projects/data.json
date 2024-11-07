@@ -2,7 +2,11 @@
   "version": 2,
   "projects": [
     {
-      "fieldConfig": {},
+      "fieldConfig": {
+        "create": {
+          "time": true
+        }
+      },
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
@@ -17,6 +21,52 @@
       "newNotesFolder": "",
       "views": [
         {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "width": 413
+              },
+              "name": {
+                "width": 230
+              },
+              "kanban-plugin": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "path",
+              "create",
+              "finish"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "kanban-plugin",
+                "operator": "is-empty",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "create",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "053b7ccb-c9ba-41b9-9904-2fda25f95b7b",
+          "name": "Table",
+          "type": "table"
+        },
+        {
           "config": {},
           "filter": {
             "conjunction": "and",
@@ -28,9 +78,43 @@
           "sort": {
             "criteria": []
           },
-          "id": "053b7ccb-c9ba-41b9-9904-2fda25f95b7b",
-          "name": "Table",
-          "type": "table"
+          "id": "fbc4ffc9-c992-4efc-a725-91240335807b",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {
+            "checkField": "finish"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "66cadea9-6d30-41ae-86e1-41a0fbc46b5f",
+          "name": "Calendar",
+          "type": "calendar"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "1ff1d86d-9dfb-4788-b1df-7b42c35ae8ef",
+          "name": "Gallery",
+          "type": "gallery"
         }
       ],
       "id": "198fb307-8cc7-4e21-a71a-db8045848917",

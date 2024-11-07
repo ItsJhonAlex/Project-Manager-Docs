@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"1","type":"text","text":"Fases del Proyecto","x":-420,"y":40,"width":300,"height":60},
+		{"id":"2","type":"text","text":"1. Investigación y Análisis","x":-395,"y":180,"width":250,"height":60},
+		{"id":"3","type":"text","text":"2. Diseño de la Plataforma","x":-395,"y":350,"width":250,"height":60},
+		{"id":"4","type":"text","text":"3. Desarrollo Iterativo","x":-395,"y":490,"width":250,"height":60},
+		{"id":"5","type":"text","text":"4. Implementación de Gamificación","x":-395,"y":610,"width":250,"height":60},
+		{"id":"6","type":"text","text":"5. Integración de Plataformas de Comunicación","x":100,"y":610,"width":250,"height":60},
+		{"id":"8","type":"text","text":"7. Lanzamiento y Mantenimiento","x":100,"y":350,"width":250,"height":60},
+		{"id":"7","type":"text","text":"6. Pruebas y Validación","x":100,"y":490,"width":250,"height":60},
+		{"id":"9","type":"text","text":"8. Mejora Continua","x":100,"y":180,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"edge1","fromNode":"1","fromSide":"bottom","toNode":"2","toSide":"top"},
+		{"id":"edge2","fromNode":"2","fromSide":"bottom","toNode":"3","toSide":"top"},
+		{"id":"edge3","fromNode":"3","fromSide":"bottom","toNode":"4","toSide":"top"},
+		{"id":"edge4","fromNode":"4","fromSide":"bottom","toNode":"5","toSide":"top"},
+		{"id":"edge5","fromNode":"5","fromSide":"right","toNode":"6","toSide":"left"},
+		{"id":"076517a7d534c17d","fromNode":"6","fromSide":"top","toNode":"7","toSide":"bottom"},
+		{"id":"c3e666311c30d6a8","fromNode":"8","fromSide":"top","toNode":"9","toSide":"bottom"},
+		{"id":"47bdb411462e1d3e","fromNode":"7","fromSide":"top","toNode":"8","toSide":"bottom"}
+	]
+}

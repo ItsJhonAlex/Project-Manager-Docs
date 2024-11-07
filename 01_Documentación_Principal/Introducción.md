@@ -1,3 +1,10 @@
+---
+create: 2024-11-07T00:00
+finish: false
+tags:
+  - Documentación
+---
+
 # Introducción
 
 ## Contexto del Proyecto
@@ -26,3 +33,7 @@ El cronograma del proyecto se puede consultar en el documento de [Cronograma](./
 
 ## Conclusión
 En resumen, este proyecto tiene como finalidad desarrollar una plataforma de software colaborativo que permita a los desarrolladores y clientes conectarse, colaborar y gestionar proyectos de manera eficiente, mejorando así la eficiencia y la colaboración entre ellos.
+
+### Extras
+Resumen del proyecto: [Resumen Principal](./Resumen_Principal.md)
+Flujo de desarrollo: [Flujo de Desarrollo](./Flujo_Desarrollo.canvas)

@@ -1,3 +1,10 @@
+---
+create: 2024-11-07T00:03
+finish: false
+tags:
+  - Documentación
+---
+
 # Metodología
 
 La metodología que se utilizará en este proyecto se basa en un enfoque ágil, permitiendo una adaptación continua a las necesidades de los usuarios y a los cambios en el entorno del desarrollo de software. A continuación, se describen las fases clave de la metodología que guiarán el desarrollo de la plataforma:
