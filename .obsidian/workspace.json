@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "01_Documentación_Principal/Objetivos.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Objetivos"
             }
           }
         ]
@@ -189,23 +189,24 @@
       "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
       "github-sync:Sync with Remote": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "53cd2947db433500",
   "lastOpenFiles": [
     "01_Documentación_Principal/Introducción.md",
-    "LICENSE",
-    "01_Documentación_Principal/LICENSE",
+    "01_Documentación_Principal/Objetivos.md",
+    "01_Documentación_Principal/Alcance.md",
+    "02_Ideas/Ideas_Generales.md",
     "README.md",
+    "01_Documentación_Principal/LICENSE",
+    "LICENSE",
     "01_Documentación_Principal/Flujo_Desarrollo.canvas",
     "01_Documentación_Principal/Drawing 2024-11-07 02.04.34.excalidraw.md",
     "01_Documentación_Principal/Sin título.canvas",
     "01_Documentación_Principal/README.md",
-    "01_Documentación_Principal/Objetivos.md",
     "06_Referencias/Bibliografía.md",
     "02_Ideas/Ideas_Para_Implementación.md",
     "202411070203.md",
@@ -219,7 +220,6 @@
     "01_Documentación_Principal/Untitled Kanban.md",
     "01_Documentación_Principal/Cronograma.md",
     "01_Documentación_Principal/Metodología.md",
-    "01_Documentación_Principal/Alcance.md",
     "03_Investigación/Fuentes.md",
     "06_Referencias/Citas.md",
     "05_Recursos/Tutoriales.md",
