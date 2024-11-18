@@ -3,6 +3,7 @@ create: 2024-11-07T00:00
 finish: false
 tags:
   - Documentación
+banner: "https://i.pinimg.com/564x/54/84/4a/54844a30617d3c0aced6b3221bb0722d.jpg"
 ---
 
 # 📖 Introducción

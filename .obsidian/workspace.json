@@ -11,17 +11,42 @@
             "id": "53cd2947db433500",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "72bcfa2428df4c45",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Documentación_Principal/Objetivos.md",
-                "mode": "preview",
+                "file": "01_Documentación_Principal/Introducción.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Objetivos"
+              "title": "Introducción"
+            }
+          },
+          {
+            "id": "c1c339ad7517d2b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Documentación_Principal/Introducción.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introducción"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,42 +215,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "github-sync:Sync with Remote": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "53cd2947db433500",
+  "active": "c1c339ad7517d2b3",
   "lastOpenFiles": [
-    "01_Documentación_Principal/Introducción.md",
-    "01_Documentación_Principal/Objetivos.md",
-    "01_Documentación_Principal/Alcance.md",
+    "01_Documentación_Principal/Metodología.md",
+    "01_Documentación_Principal/Flujo_Desarrollo.canvas",
     "02_Ideas/Ideas_Generales.md",
+    "02_Ideas/Ideas_Para_Implementación.md",
+    "02_Ideas/Ideas_Alternativas.md",
+    "02_Ideas/Ideas_Descartadas.md",
+    "02_Ideas/Diseño_Básico .excalidraw.md",
+    "01_Documentación_Principal/Resumen_Principal.md",
+    "01_Documentación_Principal/Cronograma.md",
+    "01_Documentación_Principal/Alcance.md",
+    "01_Documentación_Principal/Objetivos.md",
+    "01_Documentación_Principal/Introducción.md",
     "README.md",
     "01_Documentación_Principal/LICENSE",
     "LICENSE",
-    "01_Documentación_Principal/Flujo_Desarrollo.canvas",
     "01_Documentación_Principal/Drawing 2024-11-07 02.04.34.excalidraw.md",
     "01_Documentación_Principal/Sin título.canvas",
     "01_Documentación_Principal/README.md",
     "06_Referencias/Bibliografía.md",
-    "02_Ideas/Ideas_Para_Implementación.md",
     "202411070203.md",
     "04_Desarrollo/Tareas.md",
     "05_Recursos/Ejemplos.md",
     "03_Investigación/Análisis_de_Competencia.md",
-    "02_Ideas/Ideas_Descartadas.md",
-    "01_Documentación_Principal/Resumen_Principal.md",
     "01_Documentación_Principal/Resumen Principal.md",
     "06_Referencias/Enlaces_Útiles.md",
     "01_Documentación_Principal/Untitled Kanban.md",
-    "01_Documentación_Principal/Cronograma.md",
-    "01_Documentación_Principal/Metodología.md",
     "03_Investigación/Fuentes.md",
     "06_Referencias/Citas.md",
     "05_Recursos/Tutoriales.md",
-    "05_Recursos/Herramientas.md",
-    "05_Recursos/Documentación_Técnica.md",
-    "04_Desarrollo/Revisión.md",
     "01_Documentación_Principal/Citas",
     "02_Ideas/Ideas_Alternativas",
     "01_Documentación_Principal/Cronograma.md │",

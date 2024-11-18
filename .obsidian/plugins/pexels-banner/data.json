@@ -1,0 +1,48 @@
+{
+  "apiProvider": "all",
+  "pexelsApiKey": "KbNtWyvXg5fhKh7mgymCuOWsr81yeMJEHYjIs6e2AEEDsInANG9QVvzQ",
+  "pixabayApiKey": "46976091-5b711d21e0171ffc181f78b57",
+  "flickrApiKey": "2364bfae7351387ae27653d947973f3d",
+  "unsplashApiKey": "",
+  "imageSize": "medium",
+  "imageOrientation": "landscape",
+  "numberOfImages": 10,
+  "defaultKeywords": "nature, abstract, landscape, technology, art, cityscape, wildlife, ocean, mountains, forest, space, architecture, food, travel, science, music, sports, fashion, business, education, health, culture, history, weather, transportation, industry, people, animals, plants, patterns",
+  "yPosition": 50,
+  "customBannerField": [
+    "banner"
+  ],
+  "customYPositionField": [
+    "banner-y"
+  ],
+  "customContentStartField": [
+    "content-start"
+  ],
+  "customImageDisplayField": [
+    "banner-display"
+  ],
+  "customImageRepeatField": [
+    "banner-repeat"
+  ],
+  "folderImages": [],
+  "contentStartPosition": 150,
+  "imageDisplay": "cover",
+  "imageRepeat": false,
+  "bannerHeight": 350,
+  "customBannerHeightField": [
+    "banner-height"
+  ],
+  "fade": -75,
+  "customFadeField": [
+    "banner-fade"
+  ],
+  "borderRadius": 17,
+  "customBorderRadiusField": [
+    "banner-radius"
+  ],
+  "showPinIcon": true,
+  "pinnedImageFolder": "pixel-banner-images",
+  "showReleaseNotes": true,
+  "lastVersion": "2.8.1",
+  "showRefreshIcon": true
+}
